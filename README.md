@@ -18,8 +18,8 @@
 
 ##
 
-<a href="https://github.com/Ricardo-Goncalve/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Goncalves&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo-Goncalves github stats" /></a> 
-<a  href="https://github.com/Ricardo-Goncalves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Goncalves&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/ricgcaceja/Ricardo-Goncalve/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Goncalves&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo-Goncalves github stats" /></a> 
+<a href="https://github.com/ricgcaceja/Ricardo-Goncalves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Goncalves&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ##
 
