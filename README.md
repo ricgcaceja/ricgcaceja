@@ -1,6 +1,7 @@
 <p>Sobre mim:</p>
-<p align= "center"> Olá!, me chamo Ricardo Gonçalves, sou de São Paulo - SP e tenho formação em Engenharia Elétrica. Como nunca é tarde para aprender, decidi 
-  agora estudar tecnologia depois dos 40 com o objetivo de realizar uma transição de carreira</p>                  
+<p align= "center"> Olá!, me chamo Ricardo Gonçalves, sou de São Paulo - SP e tenho formação em Engenharia Elétrica. 
+  Como nunca é tarde para aprender, decidi 
+  agora estudar tecnologia depois dos 40 com objetivo de realizar uma transição de carreira</p>                  
 
 ##  
 
