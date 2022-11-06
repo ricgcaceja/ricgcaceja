@@ -19,13 +19,13 @@
 
 ##
 
-<a height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricgcaceja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo-Goncalves github stats" /></a> 
-<a height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricgcaceja&layout=compact&theme=buefy&hide_border=true" /></a>
+<a align="center" height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricgcaceja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo-Goncalves github stats" /></a> 
+<a align="center" height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricgcaceja&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ##
 
 <p>Meus contatos:</p>
-<div> 
+<div align="center"> 
   <a href="https://discord.gg/Ric.ar.do#6220" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:r.goncalves.cac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-gonçalves-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
