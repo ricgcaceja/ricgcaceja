@@ -24,7 +24,7 @@
 
 ##
 
-<p>Meus contatos:</p>
+<p align="center">Meus contatos:</p>
 <div align="center"> 
   <a href="https://discord.gg/Ric.ar.do#6220" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:r.goncalves.cac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
