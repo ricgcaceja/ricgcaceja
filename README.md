@@ -19,10 +19,9 @@
 
 ##
 
-<div align="center">
-    <a height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?  username=ricgcaceja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo-Goncalves github stats" /></a> 
+   <a height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?  username=ricgcaceja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo-Goncalves github stats" /></a> 
     <a height="160em" href="https://github.com/ricgcaceja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricgcaceja&layout=compact&theme=buefy&hide_border=true" /></a>
-</div>
+
 
 ##
 
