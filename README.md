@@ -1,7 +1,7 @@
 <p>Sobre mim:</p>
-<p align= "center"> Olá!, me chamo Ricardo Gonçalves, sou de São Paulo - SP e tenho formação em Engenharia Elétrica. 
-  Como nunca é tarde para aprender, decidi 
-  agora estudar tecnologia depois dos 40 com objetivo de realizar uma transição de carreira</p>                  
+<p align= "center"> Olá!, me chamo Ricardo Gonçalves, sou de São Paulo - SP e sou graduado em Engenharia Elétrica. Atuei como engenheiro de 2004 a 2020, em projetos voltados para área de automação elétrica predial e de infraestrutura de telefonia e redes de computadores, onde tive experiência em obras supervisionando toda a parte de infraestrutura física, montagem de racks, teste e certificação da rede de cabeamento estruturado, ativação de equipamentos como switch, roteadores, access point e programação de centrais telefônicas. 
+Permaneci nessa experiência até abril/2020, onde infelizmente meu ciclo veio a se encerrar com o início da pandemia. 
+ No momento estou buscando uma transição de carreira para a área de desenvolvimento, onde para isso, venho buscando me qualificar através de estudos, principalmente através de cursos on-line de programação e participando de Bootcamps.</p>                  
 
 ##  
 
